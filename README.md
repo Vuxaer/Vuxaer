@@ -1,2 +1,2 @@
 *Vuxaer
-- Minecraft Developer
+- Spigot Developer
